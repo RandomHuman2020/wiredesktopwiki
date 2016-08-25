@@ -12,7 +12,7 @@ Wire Version | Chrome Version | Electron Version
 
 ### Windows
 
-Wire Version | Chrome Version | Electron Version
-:---:|:---:|:---:
-2.9.2638 | 51.0.2704.103 | 1.2.5
-2.8.2635 | 51.0.2704.103 | 1.2.5
+Wire Version | Chrome Version | Electron Version | Release
+:---:|:---:|:---:|:---:
+2.9.2638 | 51.0.2704.103 | 1.2.5 | -
+2.8.2635 | 51.0.2704.103 | 1.2.5 | -
