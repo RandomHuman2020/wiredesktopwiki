@@ -33,3 +33,14 @@ Alternative:
 ```bash
 open /Applications/(Wire.app | Wire.localized/Wire.app) --args --devtools
 ```
+
+On Windows:
+
+```
+c:
+cd \Users\%username%\AppData\Local\wire\
+FOR /F "delims=" %%i IN ('dir /b /ad-h /t:c /od') DO SET a=%%i
+cd %a%
+Wire.exe --devtools
+pause
+```
