@@ -12,6 +12,8 @@ Wire's wrapper can be started with different arguments to influence the view & b
 --devtools
 ```
 
+![untitled](https://cloud.githubusercontent.com/assets/469989/22371754/30759b80-e499-11e6-9e77-2f25ac71bb57.png)
+
 **Start the app minimized**
 
 ```
