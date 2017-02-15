@@ -45,3 +45,9 @@ sudo dnf install glibc-devel.i686
 ```bash
 sudo dnf install libstdc++-devel.i686
 ```
+
+## Windows Build
+
+Before you can build Wire for Windows, you need to install [Visual Studio Community 2015 Edition](https://www.visualstudio.com/vs/community/). Please make sure that you have these checkmarks checked:
+
+![](https://i.stack.imgur.com/fEZEX.png)
