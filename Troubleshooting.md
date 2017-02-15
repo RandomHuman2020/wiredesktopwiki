@@ -1,5 +1,7 @@
 ## Linux Build
 
+Operating system used: Fedora 23
+
 **Problem**
 
 > /home/user/.cache/electron-builder/AppImage/AppImage-09-07-16-linux/xorriso: error while loading shared libraries: libbz2.so.1.0: cannot open shared object file: No such file or directory
