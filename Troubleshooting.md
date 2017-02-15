@@ -1,6 +1,6 @@
 ## Linux Build
 
-Operating system used: Fedora 23
+### Build on Fedora 23
 
 **Problem**
 
