@@ -12,7 +12,7 @@
 ## macOS
 
 - Production: `~/Library/Containers/com.wearezeta.zclient.mac/Data/Library/Application Support/Wire/`
-- Internal: `~/Library/Application Support/Wire/`
+- Internal: `~/Library/Application Support/WireInternal/`
 
 ## Logfiles
 
