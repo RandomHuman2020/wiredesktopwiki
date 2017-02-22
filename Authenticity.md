@@ -14,6 +14,8 @@ You can check the authenticity of our Windows wrapper when you compare it's Cert
 
 ![Screenshot](https://cloud.githubusercontent.com/assets/10243309/17216132/a3c19b2e-54df-11e6-871d-d3d15b7b4877.png)
 
+`"ed a5 f6...".replace(/ /g, '');`
+
 ## Check Certificate Fingerprint (Windows Fingerprint)
 
 The fingerprint does not change unless we use a new certificate. It can be verified using the the certificate details on `WireSetup.exe`:
