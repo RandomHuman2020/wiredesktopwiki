@@ -8,7 +8,7 @@ You can check the authenticity of our Windows wrapper when you compare it's Cert
 
 ## Check File Checksum
 
-- `certUtil -hashfile WireSetup.exe SHA256`
+- `certUtil -hashfile ./WireSetup.exe SHA256`
 
 **Screenshot**
 
