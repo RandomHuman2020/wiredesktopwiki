@@ -16,6 +16,10 @@ You can check the authenticity of our Windows wrapper when you compare it's Cert
 
 `"ed a5 f6...".replace(/ /g, '');`
 
+**Note**
+
+`certUtil` is part of Visual Studio's "ClickOnce Publishing Tools".
+
 ## Check Certificate Fingerprint (Windows Fingerprint)
 
 The fingerprint does not change unless we use a new certificate. It can be verified using the the certificate details on `WireSetup.exe`:
