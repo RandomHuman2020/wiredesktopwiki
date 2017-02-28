@@ -6,9 +6,10 @@
 
 ### Mac
 
-Wire Version | Chrome Version | Electron Version
-:---:|:---:|:---:
-2.9.2638 | 51.0.2704.103 | 1.2.5 
+Wire Version | Chrome Version | Electron Version | Release
+:---:|:---:|:---:|:---:
+2.9.2638 | 51.0.2704.103 | 1.2.5 | -
+2.10.2652 | 51.0.2704.106 | 1.2.8 | [2016-08-26](https://github.com/wireapp/wire-desktop/releases/tag/release%2F2.10.2652)
 
 ### Windows
 
