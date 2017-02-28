@@ -23,8 +23,16 @@ Wire Version | Chrome Version | Electron Version | Release
 
 Wire Version | Chrome Version | Electron Version | Release
 :---:|:---:|:---:|:---:
-2.8.2635 | 51.0.2704.103 | 1.2.5 | -
-2.9.2638 | 51.0.2704.103 | 1.2.5 | -
+2.0 | - | - | -
+2.1.2476 | 45.0.2454.85 | 0.34.1 | 2015-11-03
+2.2.2506 | 45.0.2454.85 | 0.34.2 | 2015-11-16
+2.3.2552 | 47.0.2526.73 | 0.36.0 | 2015-12-14
+2.4 | - | - | -
+2.5 | - | - | -
+2.6.2592 | - | - | -
+2.7 | - | - | 2016-06-02
+2.8 | - | - | -
+2.9.2638 | 51.0.2704.103 | 1.2.5 | 2016-07-28
 2.10.2652 | 51.0.2704.106 | 1.2.8 | [2016-08-22](https://github.com/wireapp/wire-desktop/releases/tag/release%2F2.10.2652)
 2.11.2673 | 53.0.2785.89 | 1.4.5 | [2016-09-11](https://github.com/wireapp/wire-desktop/releases/tag/release%2F2.11.2673)
 2.11.2712 | 53.0.2785.143 | 1.4.15 | [2017-02-10](https://github.com/wireapp/wire-desktop/releases/tag/release%2F2.11.2712)
