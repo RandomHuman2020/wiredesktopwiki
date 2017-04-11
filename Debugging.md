@@ -1,5 +1,5 @@
 ## Wrapper Logfiles
-- Windows: Logfiles are located in: `%APPDATA%\WireInternal`
+- Windows: Logfiles are located in: `%APPDATA%\Wire`
 
 ## Chrome Cache
 
