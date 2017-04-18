@@ -2,7 +2,7 @@
 NO OFFICIAL SUPPORT
 ***
 
-## Installation on Debian-based distributions
+## Installation on Debian-based distributions (Debian/Ubuntu/Mint)
 
 1. Install apt-transport-https to receive the package via HTTPS
 
