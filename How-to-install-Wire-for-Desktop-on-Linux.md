@@ -11,7 +11,7 @@ We don't offer official support at the moment, and any found issues can be repor
 
 2. Import our PGP signing key to be able to verify the downloaded package
 
-`sudo apt-key adv --fetch-keys https://wire-app.wire.com/linux/releases.key`
+`wget -q https://wire-app.wire.com/linux/releases.key -O- | sudo apt-key add -`
 
 3. Add our repository address to your sources list
 
