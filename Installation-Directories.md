@@ -9,7 +9,7 @@
 
 - Production: `C:\Users\Benny\AppData\Local\wire\app-2.11.2673`
 
-## macOS
+### macOS
 
 - Production: `~/Library/Containers/com.wearezeta.zclient.mac/Data/Library/Application Support/Wire/`
 - Internal: `~/Library/Application Support/WireInternal/`
