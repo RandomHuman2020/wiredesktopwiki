@@ -6,9 +6,9 @@ Do you experience black/white emojis or only boxes when someone sends you an emo
 
 1. Get [EmojiOne](https://emojione.com) font for Android from [their GitHub repository](https://github.com/Ranks/emojione/blob/master/extras/fonts/emojione-android.ttf)
 
-2. Install the new font (through applications like "Gnome Font Viewer" or by directly copying the TTF to `.local/share/fonts/`)
+2. Install the new font (through applications like "Gnome Font Viewer" or by directly copying the TTF to `~/.local/share/fonts/`)
 
-3. Prioritize the emoji font over other fonts (especially Symbola) by creating the file `.config/fontconfig/conf.d/70-emojione-color.conf` and add the following content:
+3. Prioritize the emoji font over other fonts (especially Symbola) by creating the file `~/.config/fontconfig/conf.d/70-emojione-color.conf` and add the following content:
 
 ```
 <?xml version="1.0" encoding="UTF-8"?>
