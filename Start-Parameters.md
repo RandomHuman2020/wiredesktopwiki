@@ -48,3 +48,9 @@ cd %a%
 Wire.exe --devtools
 pause
 ```
+
+**Disable Web Security**
+
+```bash
+--disable-web-security --user-data-dir="c:/chromedev"
+```
