@@ -1,6 +1,6 @@
 ***
 Wire for Linux has comparable functionality with Wire for Windows and macOS, and calls, video calls, etc. work cross-platform. However, it is an experimental build and we expect to see some issues arise from day-to-day usage.
-We don't offer official support at the moment, and any found issues can be reported by opening an issues on  https://github.com/wireapp/wire-desktop 
+We don't offer official support at the moment, but any issues can be reported via  https://github.com/wireapp/wire-desktop. 
 ***
 
 ## Installation on Debian-based distributions (Debian/Ubuntu/Mint)
