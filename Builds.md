@@ -4,7 +4,7 @@
 
 Wire Version | Chrome Version | Electron Version | Release | Download
 :---:|:---:|:---:|:---:|:---:
-[3.0.2814](https://github.com/wireapp/wire-desktop/releases/tag/release%2F3.0.2804) | 58.0.3029.110 | 1.7.7 | 2017-xx-xx | [Download](https://github.com/wireapp/wire-desktop/releases/download/release%2F3.0.2804/wire-3.0.2804.pkg)
+[3.0.2814](https://github.com/wireapp/wire-desktop/releases/tag/release%2F3.0.2804) | 58.0.3029.110 | 1.7.7 | 2017-09-26 | [Download](https://github.com/wireapp/wire-desktop/releases/download/release%2F3.0.2804/wire-3.0.2804.pkg)
 [2.15.2750](https://github.com/wireapp/wire-desktop/releases/tag/macos%2F2.15.2750) | 58.0.3029.110 | 1.7.4 | 2017-07-19 | [Download](https://github.com/wireapp/wire-desktop/releases/download/macos%2F2.15.2750/wire-2.15.2750.pkg)
 [2.14.2743](https://github.com/wireapp/wire-desktop/releases/tag/release%2F2.14.2743) | 56.0.2924.87 | 1.6.8 | 2017-05-11 | 
 [2.13.2737](https://github.com/wireapp/wire-desktop/releases/tag/release%2F2.13.2737) | 56.0.2924.87 | 1.6.5 | 2017-04-18 | 
@@ -23,6 +23,7 @@ Wire Version | Chrome Version | Electron Version | Release | Download
 
 Wire Version | Chrome Version | Electron Version | Release | Download
 :---:|:---:|:---:|:---:|:---:
+[2.17.2808](https://github.com/wireapp/wire-desktop/releases/tag/release%2F2.17.2808) | 56.0.2924.87 | 1.6.13 | 2017-09-26 | [Download](https://github.com/wireapp/wire-desktop/releases/download/release%2F2.17.2808/wire-2.17.2808.exe)
 [2.16.2806](https://github.com/wireapp/wire-desktop/releases/tag/release%2F2.16.2806) | 56.0.2924.87 | 1.6.12 | 2017-09-11 | [Download](https://github.com/wireapp/wire-desktop/releases/download/release%2F2.16.2806/wire-2.16.2806.exe)
 [2.15.2750](https://github.com/wireapp/wire-desktop/releases/tag/release%2F2.15.2750) | 56.0.2924.87 | 1.6.11 | 2017-07-19 | [Download](https://github.com/wireapp/wire-desktop/releases/download/release%2F2.15.2750/wire-2.15.2750.exe)
 [2.12.2729](https://github.com/wireapp/wire-desktop/releases/tag/release%2F2.12.2729) | 53.0.2785.143 | 1.4.15 | 2017-03-03 | [Download](https://github.com/wireapp/wire-desktop/releases/download/release%2F2.12.2729/wire-2.12.2729.exe)
