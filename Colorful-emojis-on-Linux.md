@@ -10,7 +10,7 @@ Do you experience black/white emojis or only boxes when someone sends you an emo
 
 3. Prioritize the emoji font over other fonts (especially Symbola) by creating the file `~/.config/fontconfig/conf.d/70-emojione-color.conf` and add the following content:
 
-```
+```html
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE fontconfig SYSTEM "fonts.dtd">
 <fontconfig>
