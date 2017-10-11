@@ -4,7 +4,7 @@ Do you experience black/white emojis or only boxes when someone sends you an emo
 
 **Here is how to fix them:**
 
-1. Get [EmojiOne](https://emojione.com) font from [their github repository](https://github.com/emojione/emojione/tree/master/extras/fonts). You can use the Android .ttf to get colored emojis or try the .otf or .woff versions for black and white emojis.
+1. Get [EmojiOne](https://emojione.com) font from [their GitHub repository](https://github.com/emojione/emojione/tree/master/extras/fonts). You can use the Android .ttf to get colored emojis or try the .otf or .woff versions for black and white emojis.
 
 2. Install the new font (through applications like "Gnome Font Viewer" or by directly copying the TTF to `~/.local/share/fonts/`)
 
