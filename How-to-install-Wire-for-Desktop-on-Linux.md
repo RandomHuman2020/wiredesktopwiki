@@ -3,7 +3,15 @@ Wire for Linux has comparable functionality with Wire for Windows and macOS, and
 We don't offer official support at the moment, but any issues can be reported via  https://github.com/wireapp/wire-desktop. 
 ***
 
-## Installation on Debian-based distributions (Debian/Ubuntu/Mint)
+## Table of Contents
+
+* [Installation on Debian-based distributions](#installation-on-debian-based-distributions)
+* [Update Wire on Debian-based distributions](#update-wire-on-debian-based-distributions)
+* [Installation with AppImage](#installation-with-appimage)
+
+### Installation on Debian-based distributions
+
+This will work for Debian, Ubuntu and other Ubuntu-based distributions, like Xubuntu, Kubuntu or Mint.
 
 1. Install apt-transport-https to receive the package via HTTPS
 
@@ -25,7 +33,14 @@ We don't offer official support at the moment, but any issues can be reported vi
 
         sudo apt-get install wire-desktop
 
-## Installation with AppImage
+### Update Wire on Debian-based distributions
+
+1. Run the commands:
+
+        sudo apt-get update
+        sudo apt-get upgrade
+
+### Installation with AppImage
 
 1. Download AppImage from https://wire.com/download/
 
