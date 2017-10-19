@@ -4,6 +4,7 @@
 
 Wire Version | Chrome Version | Electron Version | Release | Download
 :---:|:---:|:---:|:---:|:---:
+[3.1.2822](https://github.com/wireapp/wire-desktop/releases/tag/release%2F3.1.2822) | 58.0.3029.110 | 1.7.9 | 2017-10-17 | [Download](https://github.com/wireapp/wire-desktop/releases/download/release%2F3.1.2822/wire-3.1.2822.exe)
 [3.0.2814](https://github.com/wireapp/wire-desktop/releases/tag/release%2F3.0.2804) | 58.0.3029.110 | 1.7.7 | 2017-09-26 | [Download](https://github.com/wireapp/wire-desktop/releases/download/release%2F3.0.2804/wire-3.0.2804.pkg)
 [2.15.2750](https://github.com/wireapp/wire-desktop/releases/tag/macos%2F2.15.2750) | 58.0.3029.110 | 1.7.4 | 2017-07-19 | [Download](https://github.com/wireapp/wire-desktop/releases/download/macos%2F2.15.2750/wire-2.15.2750.pkg)
 [2.14.2743](https://github.com/wireapp/wire-desktop/releases/tag/release%2F2.14.2743) | 56.0.2924.87 | 1.6.8 | 2017-05-11 | 
@@ -23,6 +24,7 @@ Wire Version | Chrome Version | Electron Version | Release | Download
 
 Wire Version | Chrome Version | Electron Version | Release | Download
 :---:|:---:|:---:|:---:|:---:
+[3.0.2828](https://github.com/wireapp/wire-desktop/releases/tag/release%2F3.0.2828) | 56.0.2924.87 | 1.6.15 | 2017-10-17 | [Download](https://github.com/wireapp/wire-desktop/releases/download/release%2F3.0.2828/wire-3.0.2828.exe)
 [2.17.2808](https://github.com/wireapp/wire-desktop/releases/tag/release%2F2.17.2808) | 56.0.2924.87 | 1.6.13 | 2017-09-26 | [Download](https://github.com/wireapp/wire-desktop/releases/download/release%2F2.17.2808/wire-2.17.2808.exe)
 [2.16.2806](https://github.com/wireapp/wire-desktop/releases/tag/release%2F2.16.2806) | 56.0.2924.87 | 1.6.12 | 2017-09-11 | [Download](https://github.com/wireapp/wire-desktop/releases/download/release%2F2.16.2806/wire-2.16.2806.exe)
 [2.15.2750](https://github.com/wireapp/wire-desktop/releases/tag/release%2F2.15.2750) | 56.0.2924.87 | 1.6.11 | 2017-07-19 | [Download](https://github.com/wireapp/wire-desktop/releases/download/release%2F2.15.2750/wire-2.15.2750.exe)
@@ -44,6 +46,7 @@ Wire Version | Chrome Version | Electron Version | Release | Download
 
 Wire Version | Chrome Version | Electron Version | Release
 :---:|:---:|:---:|:---:
+[3.0.2816](https://github.com/wireapp/wire-desktop/releases/tag/release%2F3.0.2816) | 58.0.3029.110 | 1.7.9 | 2017-10-17
 [2.17.2813](https://github.com/wireapp/wire-desktop/releases/tag/release%2F2.17.2813) | 58.0.3029.110 | 1.7.8 | 2017-09-26
 [2.15.2751](https://github.com/wireapp/wire-desktop/releases/tag/release%2F2.15.2751) | 58.0.3029.110 | 1.7.5 | 2017-07-19
 [2.14.2744](https://github.com/wireapp/wire-desktop/releases/tag/release%2F2.14.2744) | 58.0.3029.110 | 1.7.4 | 2017-07-05
