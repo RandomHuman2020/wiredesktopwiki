@@ -4,7 +4,7 @@
 
 Wire Version | Chrome Version | Electron Version | Release | Download
 :---:|:---:|:---:|:---:|:---:
-[3.1.2822](https://github.com/wireapp/wire-desktop/releases/tag/release%2F3.1.2822) | 58.0.3029.110 | 1.7.9 | 2017-10-17 | [Download](https://github.com/wireapp/wire-desktop/releases/download/release%2F3.1.2822/wire-3.1.2822.exe)
+[3.1.2822](https://github.com/wireapp/wire-desktop/releases/tag/release%2F3.1.2822) | 58.0.3029.110 | 1.7.9 | 2017-10-17 | [Download](https://github.com/wireapp/wire-desktop/releases/download/release%2F3.1.2822/wire-3.1.2822.pkg)
 [3.0.2814](https://github.com/wireapp/wire-desktop/releases/tag/release%2F3.0.2804) | 58.0.3029.110 | 1.7.7 | 2017-09-26 | [Download](https://github.com/wireapp/wire-desktop/releases/download/release%2F3.0.2804/wire-3.0.2804.pkg)
 [2.15.2750](https://github.com/wireapp/wire-desktop/releases/tag/macos%2F2.15.2750) | 58.0.3029.110 | 1.7.4 | 2017-07-19 | [Download](https://github.com/wireapp/wire-desktop/releases/download/macos%2F2.15.2750/wire-2.15.2750.pkg)
 [2.14.2743](https://github.com/wireapp/wire-desktop/releases/tag/release%2F2.14.2743) | 56.0.2924.87 | 1.6.8 | 2017-05-11 | 
