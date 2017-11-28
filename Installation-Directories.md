@@ -18,15 +18,15 @@
 
 ### Windows
 
-- Production: `%APPDATA%\Wire\console.log`
-- Internal: `%APPDATA%\WireInternal\console.log`
+- Production: `%APPDATA%\Wire\logs\`
+- Internal: `%APPDATA%\WireInternal\logs\`
 
 ### macOS
 
-- Production: `~/Library/Containers/com.wearezeta.zclient.mac/Data/Library/Application Support/Wire/console.log`
-- Internal: `~/Library/Application Support/WireInternal/console.log`
+- Production: `~/Library/Containers/com.wearezeta.zclient.mac/Data/Library/Application Support/Wire/logs/`
+- Internal: `~/Library/Application Support/WireInternal/logs/`
 
 ### Linux
 
-- Production: `~/.config/Wire/console.log`
-- Internal: `~/.config/WireInternal/console.log`
+- Production: `~/.config/Wire/logs/`
+- Internal: `~/.config/WireInternal/logs/`
