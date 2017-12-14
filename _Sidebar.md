@@ -1,2 +1,2 @@
 ## Debugging
-* [data attributes (UI automation)](data-attributes)
+* [Wrapper logfiles](Debugging---Logfiles)
