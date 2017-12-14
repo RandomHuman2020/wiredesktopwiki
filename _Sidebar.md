@@ -1,2 +1,3 @@
 ## Debugging
-* [Wrapper logfiles](Debugging---Logfiles)
+* [Caching](Debugging-Caching)
+* [Wrapper logfiles](Debugging-Logfiles)
