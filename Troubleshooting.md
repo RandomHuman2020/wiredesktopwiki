@@ -60,6 +60,21 @@ fatal error: bits/c++config.h: No such file or directory
 apt install g++-multilibs
 ```
 
+**Problem**
+
+```bash
+error while loading shared libraries: libreadline.so.6: cannot open shared object file: No such file or directory 
+```
+
+**Solution**
+
+```bash
+cd /lib/x86_64-linux-gnu/
+ln -s libreadline.so.7.0 libreadline.so.6
+```
+
+(see https://github.com/electron-userland/electron-builder/issues/993#issuecomment-291021974)
+
 ## Windows Build
 
 Before you can build Wire for Windows, you need to install [Visual Studio Community 2015 Edition](https://www.visualstudio.com/vs/community/). Please make sure that you have these checkmarks checked:
