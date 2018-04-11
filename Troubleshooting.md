@@ -46,6 +46,20 @@ sudo dnf install glibc-devel.i686
 sudo dnf install libstdc++-devel.i686
 ```
 
+## Build on Ubuntu
+
+**Problem**
+
+```bash
+fatal error: bits/c++config.h: No such file or directory 
+```
+
+**Solution**
+
+```bash
+apt install g++-multilibs
+```
+
 ## Windows Build
 
 Before you can build Wire for Windows, you need to install [Visual Studio Community 2015 Edition](https://www.visualstudio.com/vs/community/). Please make sure that you have these checkmarks checked:
