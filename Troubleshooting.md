@@ -50,9 +50,7 @@ sudo dnf install libstdc++-devel.i686
 
 **Problem**
 
-```bash
-fatal error: bits/c++config.h: No such file or directory 
-```
+> fatal error: bits/c++config.h: No such file or directory 
 
 **Solution**
 
@@ -62,9 +60,7 @@ apt install g++-multilibs
 
 **Problem**
 
-```bash
-error while loading shared libraries: libreadline.so.6: cannot open shared object file: No such file or directory 
-```
+> error while loading shared libraries: libreadline.so.6: cannot open shared object file: No such file or directory 
 
 **Solution**
 
