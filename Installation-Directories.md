@@ -2,7 +2,7 @@
 
 ### Windows
 
-- Production: `%APPDATA%\Wire` (`C:\Users\Benny\AppData\Roaming\Wire`)
+- Production: `%APPDATA%\Wire`
 - Internal: `%APPDATA%\WireInternal`
 
 ### macOS
@@ -12,7 +12,7 @@
 
 ## EXE files
 
-- Production: `C:\Users\Benny\AppData\Local\wire\app-2.11.2673`
+- Production: `%LocalAppData%\wire\app-3.2.2860\Wire.exe`
 
 ## Logfiles
 
