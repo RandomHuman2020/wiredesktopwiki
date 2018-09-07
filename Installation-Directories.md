@@ -38,3 +38,12 @@ When the whole app crashed, it obviously can not write errors into log files, bu
 
 - Production: `~/.config/Wire/logs/`
 - Internal: `~/.config/WireInternal/logs/`
+
+## App Settings
+
+Settings for the size of the Wire app window and its position on the screen are stored in:
+
+### Windows
+
+- Production: `%APPDATA%\Wire\init.json`
+- Internal: `%APPDATA%\WireInternal\init.json`
