@@ -86,3 +86,10 @@ apt install alien
 Before you can build Wire for Windows, you need to install [Visual Studio Community 2015 Edition](https://www.visualstudio.com/vs/community/). Please make sure that you have these checkmarks checked:
 
 ![](https://i.stack.imgur.com/fEZEX.png)
+
+## Using Wire Desktop With Tor
+If you are running Tor on Linux and don't want Wire Desktop to automatically use the Tor proxy, please make sure you start the app with `--proxy-server ''`, e.g.
+
+```
+wire-desktop --proxy-server ''
+```
