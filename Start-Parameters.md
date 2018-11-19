@@ -51,6 +51,11 @@ pause
 
 **Disable Web Security**
 
-```bash
+```
 --disable-web-security --user-data-dir="c:/chromedev"
+```
+
+**Use Proxy Server**
+```
+--proxy-server='<port>'
 ```
