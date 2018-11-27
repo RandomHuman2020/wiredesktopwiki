@@ -22,7 +22,9 @@ Path to the app: `%APPDATA%\..\Local\wire`
 --startup
 ```
 
-**Start production wrapper with devtools**
+## Start production wrapper with devtools
+
+### macOS
 
 ```bash
 # Navigate to the Electron binary directory
@@ -38,7 +40,7 @@ Alternative:
 open /Applications/(Wire.app | Wire.localized/Wire.app) --args --devtools
 ```
 
-On Windows:
+### Windows
 
 ```
 c:
