@@ -46,6 +46,6 @@ This will work for Debian, Ubuntu and other Ubuntu-based distributions, like Xub
 
 2. Make AppImage executable
 
-        chmod +x wire*.AppImage
+        chmod +x Wire*.AppImage
 
 3. Run AppImage
