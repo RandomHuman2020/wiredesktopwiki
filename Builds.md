@@ -6,7 +6,7 @@ Wire Version | Chrome Version | Electron Version | Release | Download
 :---:|:---:|:---:|:---:|:---:
 [3.6.2923](https://github.com/wireapp/wire-desktop/releases/tag/macos%2F3.6.2923) | 69.0.3497.106 | 4.0.4 | 2019-02-18 | [Download](https://github.com/wireapp/wire-desktop/releases/download/macos%2F3.6.2923/Wire.pkg)
 [3.5.2910](https://github.com/wireapp/wire-desktop/releases/tag/macos%2F3.5.2910) | 69.0.3497.106 | 4.0.0-beta.11 | 2018-12-27 | [Download](https://github.com/wireapp/wire-desktop/releases/download/macos%2F3.5.2910/Wire.pkg)
-[3.4.2883](https://github.com/wireapp/wire-desktop/releases/tag/release%2F3.3.2862) | 66.0.3359.181 | 3.0.10 | 2018-11-29 | [Download](https://github.com/wireapp/wire-desktop/releases/download/release%2F2883/Wire.pkg)
+[3.4.2883](https://github.com/wireapp/wire-desktop/releases/tag/release%2F3.4.2883) | 66.0.3359.181 | 3.0.10 | 2018-11-29 | [Download](https://github.com/wireapp/wire-desktop/releases/download/release%2F2883/Wire.pkg)
 [3.3.2862](https://github.com/wireapp/wire-desktop/releases/tag/release%2F3.3.2862) | 59.0.3071.115 | 1.8.8 | 2018-09-17 | [Download](https://github.com/wireapp/wire-desktop/releases/download/release%2F3.3.2862/wire-3.3.2862.pkg)
 [3.1.2822](https://github.com/wireapp/wire-desktop/releases/tag/release%2F3.1.2822) | 58.0.3029.110 | 1.7.9 | 2017-10-19 | [Download](https://github.com/wireapp/wire-desktop/releases/download/release%2F3.1.2822/wire-3.1.2822.pkg)
 [3.0.2814](https://github.com/wireapp/wire-desktop/releases/tag/release%2F3.0.2814) | 58.0.3029.110 | 1.7.7 | 2017-09-26 | [Download](https://github.com/wireapp/wire-desktop/releases/download/release%2F3.0.2804/wire-3.0.2804.pkg)
@@ -28,6 +28,7 @@ Wire Version | Chrome Version | Electron Version | Release | Download
 
 Wire Version | Chrome Version | Electron Version | Release | Download
 :---:|:---:|:---:|:---:|:---:
+[3.7.2917](https://github.com/wireapp/wire-desktop/releases/tag/windows%2F3.7.2917) | 69.0.3497.128 | 4.0.8 | 2019-03-14 | [Download](https://github.com/wireapp/wire-desktop/releases/download/windows%2F3.7.2917/WireSetup.3.7.2917.exe)
 [3.6.2908](https://github.com/wireapp/wire-desktop/releases/tag/windows%2F3.5.2899) | 69.0.3497.106 | 4.0.4 | 2019-02-18 | [Download](https://github.com/wireapp/wire-desktop/releases/download/windows%2F3.6.2908/WireSetup.3.6.2908.exe)
 [3.5.2899](https://github.com/wireapp/wire-desktop/releases/tag/windows%2F3.5.2899) | 69.0.3497.106 | 4.0.0-beta.11 | 2018-12-21 | [Download](https://github.com/wireapp/wire-desktop/releases/download/windows%2F3.5.2899/wire-3.5.2899.exe)
 [3.4.2885](https://github.com/wireapp/wire-desktop/releases/tag/release%2F3.4.2885) | 66.0.3359.181 | 3.0.10 | 2018-11-23 | [Download](https://github.com/wireapp/wire-desktop/releases/download/release%2F3.4.2885/wire-3.4.2885.exe)
@@ -55,6 +56,7 @@ Wire Version | Chrome Version | Electron Version | Release | Download
 
 Wire Version | Chrome Version | Electron Version | Release
 :---:|:---:|:---:|:---:
+[3.7.2891](https://github.com/wireapp/wire-desktop/releases/tag/linux%2F3.7.2891) | 69.0.3497.128 | 4.0.8 | 2019-03-14
 [3.6.2885](https://github.com/wireapp/wire-desktop/releases/tag/linux%2F3.6.2885) | 69.0.3497.106 | 4.0.4 | 2019-02-18
 [3.5.2881](https://github.com/wireapp/wire-desktop/releases/tag/linux%2F3.5.2881) | 69.0.3497.106 | 4.0.0-beta.11 | 2018-12-21
 [3.4.2879](https://github.com/wireapp/wire-desktop/releases/tag/release%2F3.4.2879) | 66.0.3359.181 | 3.0.10 | 2018-11-23
