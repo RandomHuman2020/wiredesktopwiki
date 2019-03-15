@@ -27,19 +27,6 @@ sudo dnf install glibc-devel.i686
 
 ***
 
-
-**Problem**
-
-> spellchecker.target.mk:130: recipe for target 'Release/obj.target/spellchecker.node' failed
-
-> (...)
-
-> /usr/bin/ld: cannot find -lstdc++
-
-> /usr/bin/ld: cannot find -lgcc_s
-
-> (...)
-
 **Solution**
 
 ```bash
@@ -79,6 +66,19 @@ ln -s libreadline.so.7.0 libreadline.so.6
 
 ```bash
 apt install alien
+```
+
+## Debian/Ubuntu Linux error with `apt-get update`
+
+**Problem**
+
+```
+N: Skipping acquire of configured file 'main/binary-i386/Packages' as repository 'https://wire-app.wire.com/linux/debian stable InRelease' doesn't support architecture 'i386
+```
+
+**Solution**
+```bash
+sudo sed -i -e 's/deb https/deb [arch=amd64] https/' "/etc/apt/sources.list.d/wire-desktop.list"
 ```
 
 ## Windows Build
