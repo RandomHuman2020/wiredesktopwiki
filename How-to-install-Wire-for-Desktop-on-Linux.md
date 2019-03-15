@@ -23,7 +23,7 @@ This will work for Debian, Ubuntu and other Ubuntu-based distributions, like Xub
 
 3. Add our repository address to your sources list
 
-        echo "deb https://wire-app.wire.com/linux/debian stable main" | sudo tee /etc/apt/sources.list.d/wire-desktop.list
+        echo "deb [arch=amd64] https://wire-app.wire.com/linux/debian stable main" | sudo tee /etc/apt/sources.list.d/wire-desktop.list
 
 4. Update your local list of available packages
 
