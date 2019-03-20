@@ -1,9 +1,10 @@
 ## Public Builds
 
-### Mac
+### macOS
 
 Wire Version | Chrome Version | Electron Version | Release | Download
 :---:|:---:|:---:|:---:|:---:
+[3.7.2930](https://github.com/wireapp/wire-desktop/releases/tag/macos%2F3.7.2930) | 69.0.3497.128 | 4.0.8 | 2019-03-20 | [Download](https://github.com/wireapp/wire-desktop/releases/download/macos%2F3.7.2930/Wire.pkg)
 [3.6.2923](https://github.com/wireapp/wire-desktop/releases/tag/macos%2F3.6.2923) | 69.0.3497.106 | 4.0.4 | 2019-02-18 | [Download](https://github.com/wireapp/wire-desktop/releases/download/macos%2F3.6.2923/Wire.pkg)
 [3.5.2910](https://github.com/wireapp/wire-desktop/releases/tag/macos%2F3.5.2910) | 69.0.3497.106 | 4.0.0-beta.11 | 2018-12-27 | [Download](https://github.com/wireapp/wire-desktop/releases/download/macos%2F3.5.2910/Wire.pkg)
 [3.4.2883](https://github.com/wireapp/wire-desktop/releases/tag/release%2F3.4.2883) | 66.0.3359.181 | 3.0.10 | 2018-11-29 | [Download](https://github.com/wireapp/wire-desktop/releases/download/release%2F2883/Wire.pkg)
