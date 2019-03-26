@@ -24,7 +24,8 @@ You can invoke custom protocol links from the terminal:
 open -a WireInternal wire://conversation/62684726-295f-41c8-bc42-a93144158502
 ```
 
-In order to test the proper registration of the protocol in the system:
+To test the proper registration of the protocol in the system, use this command:
+
 ```sh
 open wire://conversation/62684726-295f-41c8-bc42-a93144158502
 ```
