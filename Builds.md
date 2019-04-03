@@ -31,7 +31,7 @@ Wire Version | Chrome Version | Electron Version | Release | Download
 
 Wire Version | Chrome Version | Electron Version | Release | Download
 :---:|:---:|:---:|:---:|:---:
-[3.9.2928](https://github.com/wireapp/wire-desktop/releases/tag/windows/3.8.2927) | 69.0.3497.128 | 4.1.1 | 2019-04-03 | [Download](https://github.com/wireapp/wire-desktop/releases/download/windows/3.9.2927/WireSetup.3.9.2928.exe)
+[3.9.2928](https://github.com/wireapp/wire-desktop/releases/tag/windows/3.9.2928) | 69.0.3497.128 | 4.1.1 | 2019-04-03 | [Download](https://github.com/wireapp/wire-desktop/releases/download/windows/3.9.2927/WireSetup.3.9.2928.exe)
 [3.8.2927](https://github.com/wireapp/wire-desktop/releases/tag/windows/3.8.2927) | 69.0.3497.128 | 4.1.1 | 2019-03-29 | [Download](https://github.com/wireapp/wire-desktop/releases/download/windows/3.8.2927/WireSetup.3.8.2927.exe)
 [3.7.2917](https://github.com/wireapp/wire-desktop/releases/tag/windows/3.7.2917) | 69.0.3497.128 | 4.0.8 | 2019-03-14 | [Download](https://github.com/wireapp/wire-desktop/releases/download/windows/3.7.2917/WireSetup.3.7.2917.exe)
 [3.6.2908](https://github.com/wireapp/wire-desktop/releases/tag/windows/3.5.2899) | 69.0.3497.106 | 4.0.4 | 2019-02-18 | [Download](https://github.com/wireapp/wire-desktop/releases/download/windows/3.6.2908/WireSetup.3.6.2908.exe)
