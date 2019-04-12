@@ -26,12 +26,16 @@ The fingerprint does not change unless we use a new certificate. It can be verif
 
 ![Screenshot](https://cloud.githubusercontent.com/assets/10243309/17216060/5ce5ca54-54df-11e6-9238-ad1d4c969164.png)
 
-## macOS & Linux: Check File Checksum & Signature
+## macOS & Linux: Verify checksums and signature
 
 1. Import our PGP signing key to be able to verify the downloaded files
 
         wget -q https://wire-app.wire.com/linux/releases.key -O- | gpg --import
 
-2. Verify downloaded files via checksum file
+2. Verify the checksum file's signature  via gpg
 
         gpg --verify sha256sum.txt.asc
+
+3. Verify the downloaded files via checksum file
+    * macOS: `shasum -a 256 -c sha256sum.txt.asc`
+    * Linux: `sha256sum -c sha256sum.txt.asc`
