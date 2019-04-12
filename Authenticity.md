@@ -1,6 +1,6 @@
 ## Introduction
 
-You can check the authenticity of our Windows wrapper when you compare it's Certificate Fingerprint & File Checksum. These values are listed on our [Download](https://wire.com/download/) page and can be updated in the [admin](https://wire.com/admin/client/).
+You can check the authenticity of our Windows wrapper when you compare it's Certificate Fingerprint & File Checksum. These values are listed on our [Download](https://wire.com/download/) page.
 
 **Screenshot**
 
