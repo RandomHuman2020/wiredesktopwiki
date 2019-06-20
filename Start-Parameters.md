@@ -6,7 +6,7 @@ Wire's wrapper can be started with different arguments to influence the view & b
 --env=http://localhost:8888/
 ```
 
-**Enable Chrome Developer Tools on Startup**
+## Enable Chrome Developer Tools on Startup
 
 ```
 --devtools
