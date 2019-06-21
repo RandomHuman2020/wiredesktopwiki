@@ -67,5 +67,7 @@ pause
 
 **Use Proxy Server**
 ```
---proxy-server='<port>'
+--proxy-server='<ip:port>'
 ```
+
+**Furthermore, see [Electron's supported command line switches](https://github.com/electron/electron/blob/master/docs/api/chrome-command-line-switches.md).**
