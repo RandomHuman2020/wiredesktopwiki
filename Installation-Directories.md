@@ -45,5 +45,15 @@ Settings for the size of the Wire app window and its position on the screen are 
 
 ### Windows
 
-- Production: `%APPDATA%\Wire\init.json`
-- Internal: `%APPDATA%\WireInternal\init.json`
+- Production: `%APPDATA%\Wire\config\init.json`
+- Internal: `%APPDATA%\WireInternal\config\init.json`
+
+### macOS
+
+- Production: `~/Library/Containers/com.wearezeta.zclient.mac/Data/Library/Application Support/Wire/config/init.json`
+- Internal: `~/Library/Application Support/WireInternal/config/init.json`
+
+### Linux
+
+- Production: `~/.config/Wire/config/init.json`
+- Internal: `~/.config/WireInternal/config/init.json`
