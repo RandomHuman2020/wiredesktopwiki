@@ -12,7 +12,7 @@
 
 ## EXE files
 
-- Production: `%LocalAppData%\wire\app-3.2.2860\Wire.exe`
+- Production: `%LocalAppData%\wire\app-<version>\Wire.exe`
 
 ## Logfiles
 
@@ -45,15 +45,15 @@ Settings for the size of the Wire app window and its position on the screen are 
 
 ### Windows
 
-- Production: `%APPDATA%\Wire\config\init.json`
-- Internal: `%APPDATA%\WireInternal\config\init.json`
+- Production: `%APPDATA%\Wire\config\`
+- Internal: `%APPDATA%\WireInternal\config\`
 
 ### macOS
 
-- Production: `~/Library/Containers/com.wearezeta.zclient.mac/Data/Library/Application Support/Wire/config/init.json`
-- Internal: `~/Library/Application Support/WireInternal/config/init.json`
+- Production: `~/Library/Containers/com.wearezeta.zclient.mac/Data/Library/Application Support/Wire/config/`
+- Internal: `~/Library/Application Support/WireInternal/config/`
 
 ### Linux
 
-- Production: `~/.config/Wire/config/init.json`
-- Internal: `~/.config/WireInternal/config/init.json`
+- Production: `~/.config/Wire/config/`
+- Internal: `~/.config/WireInternal/config/`
