@@ -1,4 +1,4 @@
-Wire's wrapper can be started with different arguments to influence the view & behaviour of the wrapper. Here is a list of all known parameters:
+Wire's wrapper can be started with different arguments to influence the view and behaviour of the wrapper. Here is a list of all known parameters:
 
 ## Change wrapped WebApp
 
@@ -68,13 +68,13 @@ pause
 **Use Proxy Server**
 
 ```
---proxy-server='<ip>:<port>'
+--proxy-server="<ip>:<port>"
 ```
 
 **Use Authenticated Proxy Server**
 
 ```
---proxy-server-auth='<protocol>://<username>:<password>@<ip>:<port>'
+--proxy-server-auth="<protocol>://<username>:<password>@<ip>:<port>"
 ```
 
 **Furthermore, see [Electron's supported command line switches](https://github.com/electron/electron/blob/master/docs/api/chrome-command-line-switches.md).**
