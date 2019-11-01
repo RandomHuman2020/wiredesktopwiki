@@ -79,4 +79,4 @@ pause
 --proxy-server-auth="<protocol>://<username>:<password>@<ip>:<port>"
 ```
 
-**Furthermore, see [Electron's supported command line switches](https://github.com/electron/electron/blob/master/docs/api/chrome-command-line-switches.md).**
+**Furthermore, see [Electron's supported command line switches](https://github.com/electron/electron/blob/v4.2.12/docs/api/chrome-command-line-switches.md).**
