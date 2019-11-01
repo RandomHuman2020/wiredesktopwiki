@@ -67,11 +67,13 @@ pause
 
 **Use Proxy Server**
 
+**Note**: If the proxy requires authentication, a window will appear asking for the credentials.
+
 ```
 --proxy-server="<ip>:<port>"
 ```
 
-**Use Authenticated Proxy Server**
+**Use Authenticated Proxy Server** (e.g. to pass the credentials automatically to the server once asked)
 
 ```
 --proxy-server-auth="<protocol>://<username>:<password>@<ip>:<port>"
