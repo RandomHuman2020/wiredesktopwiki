@@ -51,17 +51,13 @@ cd "$(mdfind 'kMDItemCFBundleIdentifier="com.wearezeta.zclient.mac"')/Contents/M
 ### Windows
 
 ```
-cd \Users\%username%\AppData\Local\wire\
-FOR /F "delims=" %%i IN ('dir /b /ad-h /t:c /od') DO SET a=%%i
-cd %a%
-Wire.exe --devtools
-pause
+%LOCALAPPDATA%\wire\Wire.exe --devtools
 ```
 
 **Disable Web Security**
 
 ```
---disable-web-security --user-data-dir="c:/chromedev"
+--disable-web-security --user-data-dir="c:\chromedev"
 ```
 
 **Use Proxy Server**
