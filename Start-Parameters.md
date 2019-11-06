@@ -35,23 +35,22 @@ Path to the app: `%APPDATA%\..\Local\wire`
 ### macOS
 
 ```bash
-# Navigate to the Wire binary directory
-cd /Applications/(Wire.app | Wire.localized/Wire.app)/Contents/MacOS
-
-# Start the Wire binary
-./Wire --devtools
+open -a Wire.app --args --devtools
 ```
 
 Alternative:
 
 ```bash
-open /Applications/(Wire.app | Wire.localized/Wire.app) --args --devtools
+# Navigate to the Wire binary directory
+cd "$(mdfind 'kMDItemCFBundleIdentifier="com.wearezeta.zclient.mac"')/Contents/MacOS"
+
+# Start the Wire binary
+./Wire --devtools
 ```
 
 ### Windows
 
 ```
-c:
 cd \Users\%username%\AppData\Local\wire\
 FOR /F "delims=" %%i IN ('dir /b /ad-h /t:c /od') DO SET a=%%i
 cd %a%
@@ -70,13 +69,23 @@ pause
 **Note**: If the proxy requires authentication, a window will appear asking for the credentials.
 
 ```
---proxy-server="<ip>:<port>"
+--proxy-server="<protocol>://<ip>:<port>"
+```
+
+Example:
+```
+--proxy-server="http://localhost:8080"
 ```
 
 **Use Authenticated Proxy Server** (e.g. to pass the credentials automatically to the server once asked)
 
 ```
 --proxy-server-auth="<protocol>://<username>:<password>@<ip>:<port>"
+```
+
+Example:
+```
+--proxy-server-auth="http://my-user:secretpassword@company-proxy.local:8080"
 ```
 
 **Furthermore, see [Electron's supported command line switches](https://github.com/electron/electron/blob/v4.2.12/docs/api/chrome-command-line-switches.md).**
