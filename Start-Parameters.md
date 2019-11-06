@@ -35,11 +35,11 @@ Path to the app: `%APPDATA%\..\Local\wire`
 ### macOS
 
 ```bash
-# Navigate to the Electron binary directory
+# Navigate to the Wire binary directory
 cd /Applications/(Wire.app | Wire.localized/Wire.app)/Contents/MacOS
 
-# Start the Electron binary
-./Electron --devtools
+# Start the Wire binary
+./Wire --devtools
 ```
 
 Alternative:
