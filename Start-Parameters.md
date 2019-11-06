@@ -1,4 +1,4 @@
-Wire's wrapper can be started with different arguments to influence the view and behaviour of the wrapper. Here is a list of all known parameters:
+Wire for Desktop can be started with different arguments to influence the view and behaviour of the app. Here is a list of all known parameters:
 
 ## Change wrapped WebApp
 
