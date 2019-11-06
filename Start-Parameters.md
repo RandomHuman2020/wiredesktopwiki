@@ -16,7 +16,7 @@ Shortcut example on Windows:
 
 ![windows](https://cloud.githubusercontent.com/assets/469989/22371754/30759b80-e499-11e6-9e77-2f25ac71bb57.png)
 
-Path to the app: `%APPDATA%\..\Local\wire`
+Path to the app: `%LOCALAPPDATA%\wire`
 
 ## Start the app minimized
 
