@@ -86,7 +86,7 @@ Example for macOS / Linux:
 --env=http://localhost:8888/
 ```
 
-**Furthermore, see [Electron's supported command line switches](https://github.com/electron/electron/blob/v4.2.12/docs/api/chrome-command-line-switches.md).**
+**Furthermore, see [Electron's supported command line switches](https://github.com/electron/electron/blob/v6.1.7/docs/api/chrome-command-line-switches.md).**
 
 ## How to Use Start Parameters
 
