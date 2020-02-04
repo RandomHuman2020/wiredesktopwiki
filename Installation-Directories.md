@@ -26,7 +26,11 @@
 
 - Production:
   ```
-  %LocalAppData%\wire\app-<version>\Wire.exe
+  %LOCALAPPDATA%\wire\app-<version>\Wire.exe
+  ```
+- Internal:
+  ```
+  %LOCALAPPDATA%\wireinternal\app-<version>\Wire.exe
   ```
 
 ## Logfiles
