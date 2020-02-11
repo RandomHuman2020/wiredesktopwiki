@@ -94,3 +94,4 @@ Wire Version | Chrome Version | Electron Version | Release | Download
 Wire Version | Chrome Version | Electron Version | Release | Download
 :---:|:---:|:---:|:---:|:---:
 3.12.3490 | 76.0.3809.146 | 6.1.7 | — | —
+3.12.2965 | 78.0.3904.126 | 7.1.3 | — | —
