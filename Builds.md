@@ -34,6 +34,7 @@ Wire Version | Chrome Version | Electron Version | Release | Download
 
 Wire Version | Chrome Version | Electron Version | Release | Download
 :---:|:---:|:---:|:---:|:---:
+3.13.3506 | 76.0.3809.146 | 6.1.7 | 2020-02-14 | 
 [3.12.3423](https://github.com/wireapp/wire-desktop/releases/tag/windows/3.12.3423) | 76.0.3809.146 | 6.1.7 | 2020-01-03 | [Download](https://github.com/wireapp/wire-desktop/releases/download/windows/3.12.3423/WireSetup.3.12.3423.exe)
 [3.11.3259](https://github.com/wireapp/wire-desktop/releases/tag/windows/3.11.3259) | 69.0.3497.128 | 4.2.12 | 2019-10-31 | [Download](https://github.com/wireapp/wire-desktop/releases/download/windows/3.11.3259/WireSetup.3.11.3259.exe)
 [3.10.3138](https://github.com/wireapp/wire-desktop/releases/tag/windows/3.10.3138) | 69.0.3497.128 | 4.2.9 | 2019-08-15 | [Download](https://github.com/wireapp/wire-desktop/releases/download/windows/3.10.3138/WireSetup.3.10.3138.exe)
