@@ -4,6 +4,7 @@
 
 Wire Version | Chrome Version | Electron Version | Release | Download
 :---:|:---:|:---:|:---:|:---:
+3.13.3575 | 76.0.3809.146 | 6.1.7 | 2020-02-14 | 
 [3.12.3490](https://github.com/wireapp/wire-desktop/releases/tag/macos/3.12.3490) | 76.0.3809.146 | 6.1.7 | 2020-01-03 | [Download](https://github.com/wireapp/wire-desktop/releases/download/macos/3.12.3490/Wire.pkg)
 [3.10.3215](https://github.com/wireapp/wire-desktop/releases/tag/macos/3.10.3215) | 69.0.3497.128 | 4.2.9 | 2019-10-07 | [Download](https://github.com/wireapp/wire-desktop/releases/download/macos/3.10.3215/Wire.pkg)
 [3.10.3133](https://github.com/wireapp/wire-desktop/releases/tag/macos/3.10.3133) | 69.0.3497.128 | 4.2.9 | 2019-08-15 | [Download](https://github.com/wireapp/wire-desktop/releases/download/macos/3.10.3133/Wire.pkg)
