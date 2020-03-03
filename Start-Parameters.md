@@ -35,7 +35,7 @@ If the proxy requires authentication, a window will appear asking for the creden
 **Example**
 
 ```
---proxy-server-auth="http://my-user:secretpassword@company-proxy.local:8080"
+--proxy-url="http://my-user:secretpassword@company-proxy.local:8080"
 ```
 
 #### Enable Verbose Logging
