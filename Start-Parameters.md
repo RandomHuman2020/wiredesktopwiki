@@ -24,28 +24,16 @@ Wire for Desktop can be started with different arguments to influence the view a
 --startup
 ```
 
-#### Use Proxy Server
+#### Use (Authenticated) Proxy Server
 
-**Note**: If the proxy requires authentication, a window will appear asking for the credentials.
-
-```
---proxy-server="<protocol>://<ip>:<port>"
-```
-
-Example:
-```
---proxy-server="http://localhost:8080"
-```
-
-#### Use Authenticated Proxy Server
-
-**Note**: This passes the credentials automatically to the server when asked.
+If the proxy requires authentication, a window will appear asking for the credentials. Alternatively, credentials can be provided within the url:
 
 ```
---proxy-server-auth="<protocol>://<username>:<password>@<ip>:<port>"
+--proxy-url="<protocol>://<username>:<password>@<ip>:<port>"
 ```
 
-Example:
+**Example**
+
 ```
 --proxy-server-auth="http://my-user:secretpassword@company-proxy.local:8080"
 ```
