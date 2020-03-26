@@ -4,6 +4,7 @@
 
 Wire Version | Chrome Version | Electron Version | Release | Download
 :---:|:---:|:---:|:---:|:---:
+3.16.3630 | 76.0.3809.146 | 6.1.9 | 2020-03-27 | 
 3.15.3621 | 76.0.3809.146 | 6.1.7 | 2020-03-12 | 
 3.14.3609 | 76.0.3809.146 | 6.1.7 | 2020-03-04 | 
 3.13.3575 | 76.0.3809.146 | 6.1.7 | 2020-02-14 | 
@@ -37,6 +38,7 @@ Wire Version | Chrome Version | Electron Version | Release | Download
 
 Wire Version | Chrome Version | Electron Version | Release | Download
 :---:|:---:|:---:|:---:|:---:
+3.16.3562 | 76.0.3809.146 | 6.1.9 | 2020-03-26 | 
 3.15.3551 | 76.0.3809.146 | 6.1.7 | 2020-03-12 | 
 3.14.3539 | 76.0.3809.146 | 6.1.7 | 2020-03-04 | 
 3.13.3506 | 76.0.3809.146 | 6.1.7 | 2020-02-14 | 
@@ -73,6 +75,7 @@ Wire Version | Chrome Version | Electron Version | Release | Download
 
 Wire Version | Chrome Version | Electron Version | Release | Download
 :---:|:---:|:---:|:---:|:---:
+3.16.2923 | 76.0.3809.146 | 6.1.9 | 2020-03-26 | 
 3.15.2922 | 76.0.3809.146 | 6.1.7 | 2020-03-12 | 
 3.14.2921 | 76.0.3809.146 | 6.1.7 | 2020-03-04 | 
 [3.12.2916](https://github.com/wireapp/wire-desktop/releases/tag/linux/3.12.2916) | 76.0.3809.146 | 6.1.7 | 2020-01-03 | [deb](https://github.com/wireapp/wire-desktop/releases/download/linux/3.12.2916/Wire-3.12.2916_amd64.deb) / [AppImage](https://github.com/wireapp/wire-desktop/releases/download/linux/3.12.2916/Wire-3.12.2916_x86_64.AppImage)
