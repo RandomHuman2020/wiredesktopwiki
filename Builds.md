@@ -1,5 +1,11 @@
 ## Public Builds
 
+## Table of Contents
+
+* [macOS](macOS)
+* [Windows](Windows)
+* [Linux](Linux)
+
 ### macOS
 
 Wire Version | Chrome Version | Electron Version | Release | Download
