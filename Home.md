@@ -1,6 +1,6 @@
 Welcome to the wire-desktop wiki!
 
-# Table of contents
+# Table of Contents
 
 ## Pages
 
