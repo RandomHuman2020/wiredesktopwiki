@@ -1,8 +1,8 @@
 ## Table of Contents
 
-* [macOS](macOS)
-* [Windows](Windows)
-* [Linux](Linux)
+* [macOS](#macOS)
+* [Windows](#Windows)
+* [Linux](#Linux)
 
 ### macOS
 
