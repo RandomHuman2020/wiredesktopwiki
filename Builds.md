@@ -1,5 +1,3 @@
-## Public Builds
-
 ## Table of Contents
 
 * [macOS](macOS)
