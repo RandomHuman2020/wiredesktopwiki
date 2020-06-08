@@ -29,13 +29,13 @@ Wire for Desktop can be started with different arguments to influence the view a
 If the proxy requires authentication, a window will appear asking for the credentials. Alternatively, credentials can be provided within the url:
 
 ```
---proxy-url="<protocol>://<username>:<password>@<ip>:<port>"
+--proxy-server="<protocol>://<username>:<password>@<ip>:<port>"
 ```
 
 **Example**
 
 ```
---proxy-url="http://my-user:secretpassword@company-proxy.local:8080"
+--proxy-server="http://my-user:secretpassword@company-proxy.local:8080"
 ```
 
 #### Enable Verbose Logging
