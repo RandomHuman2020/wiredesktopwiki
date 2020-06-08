@@ -38,6 +38,8 @@ If the proxy requires authentication, a window will appear asking for the creden
 --proxy-server="http://my-user:secretpassword@company-proxy.local:8080"
 ```
 
+Read more: https://www.electronjs.org/docs/api/command-line-switches#--proxy-serveraddressport
+
 #### Enable Verbose Logging
 
 ```
