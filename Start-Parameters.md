@@ -40,6 +40,8 @@ If the proxy requires authentication, a window will appear asking for the creden
 
 Read more: https://www.electronjs.org/docs/api/command-line-switches#--proxy-serveraddressport
 
+Note: It is mandatory to put the proxy address in string quotations and to declare the full protocol (http, https).
+
 #### Enable Verbose Logging
 
 ```
