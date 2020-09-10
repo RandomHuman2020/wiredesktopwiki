@@ -1,8 +1,9 @@
 ## Table of Contents  
 * [Known parameters](#known-parameters)
   * [Start the App Minimized](#start-the-app-minimized)
-  * [Use Proxy Server](#use-proxy-server)
-  * [Use Authenticated Proxy Server](#use-authenticated-proxy-server)
+  * [Use Proxy Server](#use-authenticated-proxy-server)
+  * [Use Custom Config Directory](#use-custom-config-directory)
+  * [Enable portable mode](#enable-portable-mode)
   * [Enable Verbose Logging](#enable-verbose-logging)
   * [Enable Chrome Developer Tools](#enable-chrome-developer-tools)
   * [Disable Web Security](#disable-web-security)
@@ -41,6 +42,28 @@ If the proxy requires authentication, a window will appear asking for the creden
 Read more: https://www.electronjs.org/docs/api/command-line-switches#--proxy-serveraddressport
 
 Note: It is mandatory to put the proxy address in string quotations and to declare the full protocol (http, https).
+
+#### Use Custom Config Directory
+
+To use a custom config directory (including Chrome Cache etc.), use `--user_data_dir`.
+
+Example for Windows:
+```
+--user-data-dir="C:\wire"
+```
+
+Example for macOS / Linux:
+```
+--user-data-dir="/home/wire"
+```
+
+#### Enable portable mode
+
+When enabling portable mode, Wire will save all its data into a `Data` directory which will be created where it was started at.
+
+```
+--portable
+```
 
 #### Enable Verbose Logging
 
