@@ -3,7 +3,7 @@
   * [Start the App Minimized](#start-the-app-minimized)
   * [Use Proxy Server](#use-authenticated-proxy-server)
   * [Use Custom Config Directory](#use-custom-config-directory)
-  * [Enable portable mode](#enable-portable-mode)
+  * [Enable Portable Mode](#enable-portable-mode)
   * [Enable Verbose Logging](#enable-verbose-logging)
   * [Enable Chrome Developer Tools](#enable-chrome-developer-tools)
   * [Disable Web Security](#disable-web-security)
@@ -57,7 +57,7 @@ Example for macOS / Linux:
 --user-data-dir="/home/wire"
 ```
 
-#### Enable portable mode
+#### Enable Portable Mode
 
 When enabling portable mode, Wire will save all its data into a `Data` directory which will be created where it was started at.
 
