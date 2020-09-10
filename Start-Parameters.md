@@ -49,12 +49,12 @@ To use a custom config directory (including Chrome Cache etc.), use `--user_data
 
 Example for Windows:
 ```
---user-data-dir="C:\wire"
+--user_data_dir="C:\wire"
 ```
 
 Example for macOS / Linux:
 ```
---user-data-dir="/home/wire"
+--user_data_dir="/home/wire"
 ```
 
 #### Enable Portable Mode
