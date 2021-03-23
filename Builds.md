@@ -8,6 +8,7 @@
 
 Wire Version | Chrome Version | Electron Version | Release | Download
 :---:|:---:|:---:|:---:|:---:
+[3.23.4046](https://github.com/wireapp/wire-desktop/releases/tag/macos/3.23.4046) | 85.0.4183.121 | 10.3.1 | 2021-03-17 | [Download](https://github.com/wireapp/wire-desktop/releases/download/macos/3.23.4046/Wire.pkg)
 [3.21.3959](https://github.com/wireapp/wire-desktop/releases/tag/macos/3.21.3959) | 85.0.4183.121 | 10.1.4 | 2020-10-29 | [Download](https://github.com/wireapp/wire-desktop/releases/download/macos/3.21.3959/Wire.pkg)
 [3.20.3912](https://github.com/wireapp/wire-desktop/releases/tag/macos/3.20.3912) | 83.0.4103.122 | 9.1.2 | 2020-10-07 | [Download](https://github.com/wireapp/wire-desktop/releases/download/macos/3.20.3912/Wire.pkg)
 [3.19.3799](https://github.com/wireapp/wire-desktop/releases/tag/macos/3.19.3799) | 83.0.4103.122 | 9.1.2 | 2020-08-05 | [Download](https://github.com/wireapp/wire-desktop/releases/download/macos/3.19.3799/Wire.pkg)
@@ -45,6 +46,7 @@ Wire Version | Chrome Version | Electron Version | Release | Download
 
 Wire Version | Chrome Version | Electron Version | Release | Download
 :---:|:---:|:---:|:---:|:---:
+[3.23.4018](https://github.com/wireapp/wire-desktop/releases/tag/windows/3.23.4018) | 85.0.4183.121 | 10.3.1 | 2021-03-05 | [Download](https://github.com/wireapp/wire-desktop/releases/download/windows/3.23.4018/WireSetup.3.23.4018.exe)
 [3.22.3993](https://github.com/wireapp/wire-desktop/releases/tag/windows/3.22.3993) | 85.0.4183.121 | 10.3.1 | 2021-03-05 | [Download](https://github.com/wireapp/wire-desktop/releases/download/windows/3.22.3993/WireSetup.3.22.3993.exe)
 [3.21.3932](https://github.com/wireapp/wire-desktop/releases/tag/windows/3.21.3932) | 85.0.4183.121 | 10.1.4 | 2020-10-29 | [Download](https://github.com/wireapp/wire-desktop/releases/download/windows/3.21.3932/WireSetup.3.21.3932.exe)
 [3.20.3890](https://github.com/wireapp/wire-desktop/releases/tag/windows/3.20.3890) | 83.0.4103.122 | 9.1.2 | 2020-10-07 | [Download](https://github.com/wireapp/wire-desktop/releases/download/windows/3.20.3890/WireSetup.3.20.3890.exe)
@@ -86,6 +88,7 @@ Wire Version | Chrome Version | Electron Version | Release | Download
 
 Wire Version | Chrome Version | Electron Version | Release | Download
 :---:|:---:|:---:|:---:|:---:
+[3.23.2938](https://github.com/wireapp/wire-desktop/releases/tag/linux/3.23.2938) | 85.0.4183.121 | 10.3.1 | 2020-03-05 | [deb](https://github.com/wireapp/wire-desktop/releases/download/linux/3.23.2938/Wire-3.23.2938_amd64.deb) / [AppImage](https://github.com/wireapp/wire-desktop/releases/download/linux/3.23.2938/Wire-3.23.2938_x86_64.AppImage)
 [3.22.2937](https://github.com/wireapp/wire-desktop/releases/tag/linux/3.22.2937) | 85.0.4183.121 | 10.3.1 | 2020-03-05 | [deb](https://github.com/wireapp/wire-desktop/releases/download/linux/3.22.2937/Wire-3.22.2937_amd64.deb) / [AppImage](https://github.com/wireapp/wire-desktop/releases/download/linux/3.22.2937/Wire-3.22.2937_x86_64.AppImage)
 [3.21.2936](https://github.com/wireapp/wire-desktop/releases/tag/linux/3.21.2936) | 85.0.4183.121 | 10.1.4 | 2020-10-29 | [deb](https://github.com/wireapp/wire-desktop/releases/download/linux/3.21.2936/Wire-3.21.2936_amd64.deb) / [AppImage](https://github.com/wireapp/wire-desktop/releases/download/linux/3.21.2936/Wire-3.21.2936_x86_64.AppImage)
 [3.20.2934](https://github.com/wireapp/wire-desktop/releases/tag/linux/3.20.2934) | 83.0.4103.122 | 9.1.2 | 2020-10-07 | [deb](https://github.com/wireapp/wire-desktop/releases/download/linux/3.20.2934/Wire-3.20.2934_amd64.deb) / [AppImage](https://github.com/wireapp/wire-desktop/releases/download/linux/3.20.2934/Wire-3.20.2934_x86_64.AppImage)
