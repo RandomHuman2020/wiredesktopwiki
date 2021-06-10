@@ -48,7 +48,7 @@ Wire Version | Chrome Version | Electron Version | Release | Download
 
 Wire Version | Chrome Version | Electron Version | Release | Download
 :---:|:---:|:---:|:---:|:---:
-[3.25.4071](https://github.com/wireapp/wire-desktop/releases/tag/windows/3.25.4071) | 85.0.4183.121 | 10.4.1 | 2021-05-11 | [Download](https://github.com/wireapp/wire-desktop/releases/download/windows/3.23.4018/WireSetup.25.4071.exe)
+[3.25.4071](https://github.com/wireapp/wire-desktop/releases/tag/windows/3.25.4071) | 85.0.4183.121 | 10.4.1 | [2021-05-11](https://github.com/wireapp/wire-desktop/releases/tag/windows%2F3.25.4071) | [Download](https://github.com/wireapp/wire-desktop/releases/download/windows/3.23.4018/WireSetup.25.4071.exe)
 [3.24.4036](https://github.com/wireapp/wire-desktop/releases/tag/windows/3.24.4036) | 85.0.4183.121 | 10.4.1 | 2021-03-29 | [Download](https://github.com/wireapp/wire-desktop/releases/download/windows/3.23.4018/WireSetup.24.4036.exe)
 [3.23.4018](https://github.com/wireapp/wire-desktop/releases/tag/windows/3.23.4018) | 85.0.4183.121 | 10.3.1 | 2021-03-05 | [Download](https://github.com/wireapp/wire-desktop/releases/download/windows/3.23.4018/WireSetup.3.23.4018.exe)
 [3.22.3993](https://github.com/wireapp/wire-desktop/releases/tag/windows/3.22.3993) | 85.0.4183.121 | 10.3.1 | 2021-03-05 | [Download](https://github.com/wireapp/wire-desktop/releases/download/windows/3.22.3993/WireSetup.3.22.3993.exe)
