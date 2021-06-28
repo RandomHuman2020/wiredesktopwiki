@@ -92,7 +92,7 @@ Wire Version | Chrome Version | Electron Version | Release Date | Download
 
 ### Linux
 
-Wire Version | Chrome Version | Electron Version | Release | Download
+Wire Version | Chrome Version | Electron Version | Release Date | Download
 :---:|:---:|:---:|:---:|:---:
 [3.26.2941](https://github.com/wireapp/wire-desktop/releases/tag/linux/3.26.2941) | 87.0.4280.141 | 11.4.8 | 2020-06-28 | [deb](https://github.com/wireapp/wire-desktop/releases/download/linux/3.26.2941/Wire-3.26.2941_amd64.deb) / [AppImage](https://github.com/wireapp/wire-desktop/releases/download/linux/3.26.2941/Wire-3.26.2941_x86_64.AppImage)
 [3.25.2940](https://github.com/wireapp/wire-desktop/releases/tag/linux/3.25.2940) | 85.0.4183.121 | 10.4.1 | 2020-05-11 | [deb](https://github.com/wireapp/wire-desktop/releases/download/linux/3.25.2940/Wire-3.25.2940_amd64.deb) / [AppImage](https://github.com/wireapp/wire-desktop/releases/download/linux/3.25.2940/Wire-3.25.2940_x86_64.AppImage)
@@ -125,12 +125,3 @@ Wire Version | Chrome Version | Electron Version | Release | Download
 [2.13.2739](https://github.com/wireapp/wire-desktop/releases/tag/release/2.13.2739) | 56.0.2924.87 | 1.6.6 | 2017-04-18 | [deb](https://github.com/wireapp/wire-desktop/releases/download/release/2.13.2739/wire_2.13.2739_amd64.deb) / [AppImage](https://github.com/wireapp/wire-desktop/releases/download/release/2.13.2739/wire-2.13.2739-x86_64.AppImage)
 [2.12.2729](https://github.com/wireapp/wire-desktop/releases/tag/release/2.12.2729) | 53.0.2785.143 | 1.4.15 | 2017-03-03 | [deb](https://github.com/wireapp/wire-desktop/releases/download/release/2.12.2729/wire_2.12.2729_amd64.deb) / [AppImage](https://github.com/wireapp/wire-desktop/releases/download/release/2.12.2729/wire-2.12.2729-x86_64.AppImage)
 [2.11.2722](https://github.com/wireapp/wire-desktop/releases/tag/release/2.11.2722) | 56.0.2924.87 | 1.6.1 | 2017-02-24 | [deb](https://github.com/wireapp/wire-desktop/releases/download/release/2.11.2722/wire_2.11.2722_amd64.deb) / [AppImage](https://github.com/wireapp/wire-desktop/releases/download/release/2.11.2722/wire-2.11.2722-x86_64.AppImage)
-
-## Internal Builds
-
-### macOS
-
-Wire Version | Chrome Version | Electron Version | Release | Download
-:---:|:---:|:---:|:---:|:---:
-3.12.3490 | 76.0.3809.146 | 6.1.7 | — | —
-3.12.2965 | 78.0.3904.126 | 7.1.3 | — | —
