@@ -8,7 +8,6 @@ Welcome to the wire-desktop wiki!
 * [[Builds]]
 * [[Code Signing]]
 * [[Colorful emojis on Linux]]
-* [[Debugging Caching]]
 * [[Debugging Certificate Pinning]]
 * [[How to install Wire for Desktop on Linux]]
 * [[Installation Directories]]
@@ -17,6 +16,5 @@ Welcome to the wire-desktop wiki!
 
 ## Debugging
 
-* [Caching](Debugging-Caching)
 * [Certificate Pinning](Debugging-Certificate-Pinning)
 * [Log Files](Installation-Directories#logfiles)
