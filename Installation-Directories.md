@@ -1,3 +1,7 @@
+## Windows-relevant
+
+Windows supports installing applications for all users in `%PROGRAMFILES%` or per user in `%LOCALAPPDATA%`. By default, Electron applications (like ours) are stored in `%LOCALAPPDATA%` and user data generated from Electron apps are stored in `%APPDATA%`.
+
 ## Chrome directory
 
 ### Windows
