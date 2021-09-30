@@ -1,4 +1,4 @@
-## Windows-relevant
+## Windows-specific
 
 Windows supports installing applications for all users in `%PROGRAMFILES%` or per user in `%LOCALAPPDATA%`. By default, Electron applications (like ours) are stored in `%LOCALAPPDATA%\Wire` (holds `.exe` file, `*.dll` files, etc.) and user data generated from Electron apps are stored in `%APPDATA%\Wire` (holds configuration file, log files, IndexedDB records, etc.).
 
