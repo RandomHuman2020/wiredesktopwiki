@@ -36,7 +36,7 @@ This will work for Debian, Ubuntu and other Ubuntu-based distributions, like Xub
 
         sudo apt-get install wire-desktop
 
-6. If you want to install the **unsupported** internal beta (**DO THIS AT YOUR OWN RISK**):
+6. If you want to install the **unsupported** internal beta (**DO THIS AT YOUR OWN RISK / DO NOT USE ON PRODUCTION DATA / MAKE BACKUPS**):
 
         sudo apt-get install wire-desktop-internal
 
