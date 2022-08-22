@@ -23,7 +23,10 @@ This will work for Debian, Ubuntu and other Ubuntu-based distributions, like Xub
 
 3. Add our repository address to your sources list
 
-        echo "deb [arch=amd64] https://wire-app.wire.com/linux/debian stable main" | sudo tee /etc/apt/sources.list.d/wire-desktop.list
+        echo "deb [arch=amd64] https://wire-app.wire.com/linux/debian stable main" \
+          | sudo tee /etc/apt/sources.list.d/wire-desktop.list
+        echo "deb [arch=amd64] https://wire-app.wire.com/linux-internal/debian stable main" \
+          | sudo tee /etc/apt/sources.list.d/wire-desktop-internal.list
 
 4. Update your local list of available packages
 
@@ -32,6 +35,10 @@ This will work for Debian, Ubuntu and other Ubuntu-based distributions, like Xub
 5. Install wire-desktop
 
         sudo apt-get install wire-desktop
+
+6. If you want to install the **unsupported** internal beta (**DO THIS AT YOUR OWN RISK**):
+
+        sudo apt-get install wire-desktop-internal
 
 ### Update Wire on Debian-based distributions
 
