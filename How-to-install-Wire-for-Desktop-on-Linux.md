@@ -42,12 +42,17 @@ This will work for Debian, Ubuntu and other Ubuntu-based distributions, like Xub
         sudo apt-get update
         sudo apt-get upgrade
 
+
 ### Installation with AppImage
 
-1. Download AppImage from https://wire.com/download/
+1. [Go here](https://github.com/wireapp/wire-desktop/releases)
 
-2. Make AppImage executable
+2. Scroll to the latest Linux release
+
+3. Download the artefacts and verify the signatures
+
+4. Make AppImage executable
 
         chmod +x Wire*.AppImage
 
-3. Run AppImage
+5. Run AppImage
