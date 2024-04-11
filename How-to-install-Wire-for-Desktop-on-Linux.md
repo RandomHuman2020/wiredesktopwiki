@@ -45,14 +45,21 @@ This will work for Debian, Ubuntu and other Ubuntu-based distributions, like Xub
 
 ### Installation with AppImage
 
-1. [Go here](https://github.com/wireapp/wire-desktop/releases)
+1. [Go to our releases page](https://github.com/wireapp/wire-desktop/releases)
 
-2. Scroll to the latest Linux release
+2. Scroll to the latest Linux release.
 
-3. Download the artefacts and verify the signatures
+3. Download the assets and verify the signed hashes:
 
-4. Make AppImage executable
+    ```
+    wget https://github.com/wireapp/wire-desktop/releases/download/linux%2F3.35.3348/sha256sum.txt.asc
+    gpg --verify sha256sum.txt.asc
+    wget https://github.com/wireapp/wire-desktop/releases/download/linux%2F3.35.3348/Wire-3.35.3348_x86_64.AppImage
+    sha256sum Wire-3.35.3348_x86_64.AppImage ; grep Wire-3.35.3348_x86_64.AppImage sha256sum.txt.asc 
+    ```
+
+5. Make AppImage executable
 
         chmod +x Wire*.AppImage
 
-5. Run AppImage
+6. Run AppImage
