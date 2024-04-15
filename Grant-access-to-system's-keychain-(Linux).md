@@ -2,7 +2,7 @@
 
 With the introduction of Electron's [safeStorage](https://www.electronjs.org/docs/latest/api/safe-storage), the Wire app now requires access to your system's keychain.
 
-This should happen transparently, but we identified an issue with the community maintained [Snap package](https://snapcraft.io/wire), and users that do not use a full desktop environment (usually users who prefer a tiling window manager).
+This should happen transparently, but we identified an issue with the community maintained [Snap package](https://snapcraft.io/wire), and with users that do not use a full desktop environment (usually users who prefer a tiling window manager).
 
 ## If you are using the Snap package:
 - There is currently no workaround as we do not maintain that package, we have identified a potential fix and contacted the maintainer, you can follow the progress [here](https://github.com/wireapp/wire-desktop/issues/7764), we recommend using the app in a browser in the mean time.
@@ -12,7 +12,7 @@ This should happen transparently, but we identified an issue with the community 
 - Start the Wire app with a flag to grant Electron access to the library
 
 ### Install a supported keychain
-Electron supports either the Gnome ore KDE keychain to store information, you would need to install either a version of `gnome-libsecret` or `kwallet` on your system, the process differs depending on distribution we will provide example for Debian/libsecret and Arch/kwallet5
+Electron supports either the Gnome or KDE keychain to store information, you would need to install either a version of `gnome-libsecret` or `kwallet` on your system, the process differs depending on distribution we will provide example for Debian/libsecret and Arch/kwallet5
 
 - getting libsecret on a Debian based distribution:
 ```
