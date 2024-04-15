@@ -27,9 +27,9 @@ sudo pacman -S kwallet5
 If chromium does not find a supported desktop environment, you will need to start the app with the relevant flag, list [here](https://www.electronjs.org/docs/latest/api/safe-storage#safestoragegetselectedstoragebackend-linux)
 - Launching the app on Debian/libsecret:
 ```
-wire-desktop --password-store=gnome-libsecret
+wire-desktop --password-store="gnome-libsecret"
 ```
 - Launching the app on Arch/kwallet5:
 ```
-wire-desktop --password-store=kwallet5
+wire-desktop --password-store="kwallet5"
 ```
