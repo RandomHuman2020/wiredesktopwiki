@@ -12,7 +12,7 @@ This should happen transparently, but we identified an issue with the community 
 - Start the Wire app with a flag to grant Electron access to the library
 
 ### Install a supported keychain
-Electron supports either the Gnome or KDE keychain to store information, you would need to install either a version of `gnome-libsecret` or `kwallet` on your system, the process differs depending on distribution we will provide example for Debian/libsecret and Arch/kwallet5
+Electron supports either the Gnome or KDE keychain to store information, you would need to install either a version of `gnome-libsecret` or `kwallet` on your system, the process differs depending on distribution, we will provide examples for Debian/libsecret and Arch/kwallet5
 
 - getting libsecret on a Debian based distribution:
 ```
