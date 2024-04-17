@@ -33,3 +33,14 @@ wire-desktop --password-store="gnome-libsecret"
 ```
 wire-desktop --password-store="kwallet5"
 ```
+#### If you want to avoid adding that flag every time you could add it to your .desktop file:
+- Find your .desktop file, the name and location varies wildly between different distributions/packages
+- As an example we'll use the AppImage, the location should be `~/.local/share/applications/appimagekit-wire-desktop.desktop
+- Open the file in a text editor and add the flag in the `Exec=` line, in the AppImage example, it would be:
+```
+[Desktop Entry]
+Name=Wire
+Exec=/path/to/appimage/Wire-3.35.3348_x86_64.AppImage --password-store="gnome-libsecret" %U 
+...
+```
+- You only need to add your correct `--password-store` flag between the path to Wire's executable and "%U" and then save
