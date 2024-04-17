@@ -33,7 +33,7 @@ wire-desktop --password-store="gnome-libsecret"
 ```
 wire-desktop --password-store="kwallet5"
 ```
-#### If you want to avoid adding that flag every time you could add it to your .desktop file:
+#### If you want to avoid adding that flag every time, you could add it to your .desktop file:
 - Find your .desktop file, the name and location varies wildly between different distributions/packages
 - As an example we'll use the AppImage, the location should be `~/.local/share/applications/appimagekit-wire-desktop.desktop
 - Open the file in a text editor and add the flag in the `Exec=` line, in the AppImage example, it would be:
