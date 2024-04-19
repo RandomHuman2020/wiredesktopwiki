@@ -1,4 +1,4 @@
-# How to solve "Wire could not access your system safe storage" on Linux
+# How to solve "Wire can't access your system's safe storage" on Linux
 
 With the introduction of Electron's [safeStorage](https://www.electronjs.org/docs/latest/api/safe-storage), the Wire app now requires access to your system's keychain.
 
